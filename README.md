@@ -29,3 +29,5 @@
 ![фото2](results/2.png)
 
 ![фото3](results/3.png)
+
+![фото4](results/4.png)
